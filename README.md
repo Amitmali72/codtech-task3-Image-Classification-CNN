@@ -55,7 +55,7 @@ This project implements a Convolutional Neural Network (CNN) using **TensorFlow*
 
 ---
 
-## 🔧 Tools Used
+## 🔧 Modules Used
 
 - Python
 - TensorFlow & Keras
@@ -64,8 +64,3 @@ This project implements a Convolutional Neural Network (CNN) using **TensorFlow*
 
 ---
 
-## 📌 How to Run
-
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/your-username/Task3_Image_Classification.git(https://github.com/Amitmali72/codtech-task3-Image-Classification-CNN)
