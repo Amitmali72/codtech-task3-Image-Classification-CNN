@@ -63,4 +63,7 @@ This project implements a Convolutional Neural Network (CNN) using **TensorFlow*
 - NumPy
 
 ---
-
+## ✍️ Author
+**Amit Mali**
+Intern at CodTech
+💼 AI/ML Internship - Task 3 Submission
